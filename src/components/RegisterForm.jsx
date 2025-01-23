@@ -8,7 +8,7 @@ export default function RegisterForm (){
                     <input type="text" placeholder="Full name"></input>
                     <input type="text" placeholder="Email"></input>
                     <input type="Password" placeholder="Password"></input>
-                    <button className="bg-green-600 cursor-pointer text-white py-2 px-6">Register</button>
+                    <button className="bg-green-600 cursor-pointer text-white py-2 px-6 font-bold">Register</button>
                     <div className="bg-red-700 w-fit text-white text-sm py-1 px-3 mt-3 rounded-md">
                         Error Message
                     </div>
